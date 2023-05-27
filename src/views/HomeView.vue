@@ -32,7 +32,7 @@ export default {
 .container {
   background-image: linear-gradient(to right, #312858 0%, #a6c1ee 51%, #508fee 100%);
   width: 100%;
-  height: 90vh;
+  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
